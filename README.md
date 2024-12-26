@@ -4,22 +4,10 @@
 
 Sou estudante de Ciência da Computação na Universidade Federal da Bahia (UFBA), com forte interesse em programação. Atualmente, atuo como voluntário na empresa júnior de Engenharia da Computação da UFBA, TITAN, onde exerço o cargo de diretor de marketing.Tenho conhecimentos em linguagens de programação, incluindo Python, JavaScript e TypeScript, e estou constantemente em busca de oportunidades para aprimorar minhas habilidades técnicas e teóricas
 
-<p align="left">
-    <a href="https://github.com/otavionovais?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/otavionovais?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/otavionovais?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/otavionovais?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+## Você pode me encontra em: 📫
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-oliveira-522a701b9)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavio14novais@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otavio_novais42)
 
 ---
 
@@ -117,7 +105,6 @@ Sou estudante de Ciência da Computação na Universidade Federal da Bahia (UFBA
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
 <p>
   <img 
